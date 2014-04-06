@@ -1,4 +1,4 @@
 learnyounode_solutions
 ======================
 
-solutions to http://nodeschool.io/#learn-you-node
+spoiler alert: solutions to http://nodeschool.io/#learn-you-node
