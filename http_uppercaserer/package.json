@@ -1,0 +1,17 @@
+{
+  "name": "http_uppercaserer",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": "svoeller99",
+  "homepage": "",
+  "dependencies": {
+    "through2-map": "1.2.x"
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
