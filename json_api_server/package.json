@@ -1,0 +1,17 @@
+{
+  "name": "json_api_server",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": "svoeller99",
+  "homepage": "",
+  "dependencies": {
+    "express": "3.5.x"
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
