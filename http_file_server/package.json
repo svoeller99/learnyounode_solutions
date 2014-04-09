@@ -1,0 +1,16 @@
+{
+  "name": "http_file_server",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": "svoeller99",
+  "homepage": "",
+  "dependencies": {
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
