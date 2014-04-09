@@ -1,0 +1,17 @@
+{
+  "name": "time_server",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": "svoeller99",
+  "homepage": "",
+  "dependencies": {
+    "strftime": "0.8.x"
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
